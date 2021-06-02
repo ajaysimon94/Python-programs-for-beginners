@@ -1,5 +1,5 @@
 # Py-programs-for-beginners
-If you are beggining to learn Python - these are some great easy programs to start with.
+If you are beginning to learn Python - these are some great easy programs to start with.
 
 You can begin by looking at the problem statements listed below, then attempt by yourself. If you are unable to write the code by yourself - look at the solutions mentioned.
 
